@@ -1,8 +1,8 @@
 /* Base styles */
 :root {
-  --primary-color: #4361ee;
-  --secondary-color: #3f37c9;
-  --accent-color: #4895ef;
+  --primary-color: #000000;
+  --secondary-color: #393636;
+  --accent-color: #000000;
   --background-color: #f8f9fa;
   --text-color: #212529;
   --light-gray: #e9ecef;
@@ -335,7 +335,7 @@ body {
 }
 
 .download-btn:hover {
-  background-color: #3a7bc8;
+  background-color: #504f4f;
 }
 
 /* Loading and error states */

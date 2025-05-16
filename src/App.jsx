@@ -76,7 +76,7 @@ function RecentFlipbooks() {
             <div key={book.publicId} className="flipbook-card">
               <div className="flipbook-thumbnail">
                 <img
-                  src={`http://localhost:5000/uploads/images/${book.publicId}/page-1.png`}
+                  src={`http://localhost:5000/uploads/images/${book.publicId}/page-01.png`}
                   alt={book.title}
                 />
               </div>
