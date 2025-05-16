@@ -2,7 +2,7 @@
 :root {
   --primary-color: #000000;
   --secondary-color: #393636;
-  --accent-color: #000000;
+  --accent-color: #4895ef;
   --background-color: #f8f9fa;
   --text-color: #212529;
   --light-gray: #e9ecef;
@@ -335,7 +335,7 @@ body {
 }
 
 .download-btn:hover {
-  background-color: #504f4f;
+  background-color: #3a7bc8;
 }
 
 /* Loading and error states */
